@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T13:51:01.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Gcjq2kuhvyHeq9AoqCNb" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T15:09:15.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="DUvAB6O6bnvUmQ7qlXMj" version="21.7.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="880" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -267,6 +267,27 @@
         </mxCell>
         <mxCell id="-ZE24n4rQE2Rr5PEtNpd-9" value="viagem" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="655" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZE24n4rQE2Rr5PEtNpd-13" value="data de&lt;br&gt;partida" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="485" y="730" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZE24n4rQE2Rr5PEtNpd-14" value="ctps" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="840" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZE24n4rQE2Rr5PEtNpd-15" value="cpf" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZE24n4rQE2Rr5PEtNpd-16" value="horario de&amp;nbsp;&lt;br&gt;partida" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="575" y="730" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZE24n4rQE2Rr5PEtNpd-17" value="n° passageiros&lt;br&gt;transportado" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="820" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZE24n4rQE2Rr5PEtNpd-18" value="data de&lt;br&gt;chegada" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="735" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZE24n4rQE2Rr5PEtNpd-19" value="horario&lt;br&gt;de&lt;br&gt;chegada" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="675" width="55" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
